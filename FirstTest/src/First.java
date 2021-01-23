@@ -15,5 +15,6 @@ public class First {
 
         //dell vscode
         System.out.println("dell vscode"); 
+        System.out.println("dell idea 04");
     }
 }
