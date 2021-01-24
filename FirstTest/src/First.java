@@ -19,5 +19,8 @@ public class First {
 
         //测试2020.3
         System.out.println("2020.3");
+
+        //测试2020.3 06
+        System.out.println("2020.3 06");
     }
 }
