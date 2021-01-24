@@ -22,5 +22,8 @@ public class First {
 
         //测试2020.3 06
         System.out.println("2020.3 06");
+
+        //2021年1月24日-20点27分
+        System.out.println("2021年1月24日-20点27分");
     }
 }
