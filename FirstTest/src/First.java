@@ -13,6 +13,10 @@ public class First {
         System.out.println("测试提交02");
         System.out.println("dell 提交");
 
+        //dell vscode
+        System.out.println("dell vscode");
+        System.out.println("dell idea 04");
+
         //测试2020.3
         System.out.println("2020.3");
     }
